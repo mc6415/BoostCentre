@@ -15,7 +15,7 @@ export default class Home extends React.Component{
 
   render(){
     return(
-      <h1>Hello World!</h1>
+      <h1>Welcome to the cheapest OverWatch Boosting service for lower ranks online!</h1>
     )
   }
 
